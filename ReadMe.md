@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on A.I/M.L.<br>🌱 I'm currently learning more about Blockchain.<br>👯 I'm looking to collaborate with open-source projects.<br>🤔 I'm looking for help with my side projects.<br>💬 Feel free to ask me about Golang, Postgress, Django,  Flutter, or any tech-related stuff.<br>📫 You can reach me on Twitter <a href="https://twitter.com/loopassembly"> @loopassembly </a>.<br>😄 My pronouns are He/Him.<br>⚡ Fun fact: I spend almost 12 hours coding every day. 😁
+🔭 I'm currently working on A.I/M.L.<br>🌱 I'm currently learning more about Blockchain.<br>👯 I'm looking to collaborate with open-source projects.<br>🤔 I'm looking for help with my side projects.<br>💬 Feel free to ask me about Golang, Postgress, Django,  Flutter, or any tech-related stuff.<br>📫 You can reach me on Twitter <a href="https://twitter.com/loopassembly"> @loopassembly </a>.
 
 
 ## 🌐 Socials:
