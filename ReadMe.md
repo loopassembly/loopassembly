@@ -21,9 +21,9 @@ ML/AI:          TensorFlow, NumPy
 Learning:       Blockchain
 ```
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loopassembly&theme=react&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loopassembly&theme=react&hide_border=false" alt="GitHub Streak" />-->
 
 ## 🏆 Stack Overflow Impact
 
