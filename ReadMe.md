@@ -37,7 +37,8 @@ Learning:       Blockchain
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/14141164/loopassembly">
-        <img src="https://stackoverflow-card.vercel.app/?userID=14141164&theme=stackoverflow-dark" alt="loopassembly's Stack Overflow Stats" />
+        <!--<img src="https://stackoverflow-card.vercel.app/?userID=14141164&theme=stackoverflow-dark" alt="loopassembly's Stack Overflow Stats" />-->
+        <img src="https://bfknwdemyjmbwswsygtg.supabase.co/storage/v1/object/public/festive//stackoverflow.svg" alt="loopassembly's Stack Overflow Stats" />
       </a>
     </td>
     <td>
