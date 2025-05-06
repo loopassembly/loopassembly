@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Ashutosh Anand (@loopassembly)
+# I'm Ashutosh Anand (@loopassembly)
 
 ## 💫 About Me
 
@@ -54,26 +54,27 @@ Learning:       Blockchain
 
 ## 📬 Let's Connect
 
-<a href="https://twitter.com/loopassembly">
-  <img align="left" alt="loopassembly's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/loopassembly">
-  <img align="left" alt="loopassembly's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/loop_assembly">
-  <img align="left" alt="loopassembly's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.gg/eJ8pCwQ3">
-  <img align="left" alt="loopassembly's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
-<br><br>
+<p align="left">
+  <a href="https://twitter.com/loopassembly" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/loopassembly" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/eJ8pCwQ3" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://stackoverflow.com/users/14141164/loopassembly" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+<br>
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=loopassembly&color=blueviolet" alt="Profile views" />
-</p>
+</p>-->
 
 <!--
 **loopassembly/loopassembly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
